@@ -1,0 +1,11 @@
+<package format="2">
+  <name>abseil_catkin</name>
+  <version>0.0.1</version>
+  <description>abseil_catkin</description>
+  <maintainer email="gawela@ethz.ch">Abel Gawel</maintainer>
+
+  <license>See package</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+</package>
